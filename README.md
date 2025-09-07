@@ -4,7 +4,11 @@
 
 FraudGuard Pro is an advanced AI-powered web application designed to detect fraudulent transactions in real-time using multiple machine learning models. This application provides financial institutions and payment processors with a powerful tool to identify and prevent fraudulent activities.
 
-![FraudGuard Pro Interface](https://via.placeholder.com/800x400?text=FraudGuard+Pro+Interface+Screenshot)
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraudguard-pro-online-payment-fraud-detection-ankit-parwatkar.streamlit.app/)
+
+Experience the app live: https://fraudguard-pro-online-payment-fraud-detection-ankit-parwatkar.streamlit.app/
 
 ## 🚀 Features
 
@@ -145,3 +149,5 @@ This system uses machine learning to detect potential fraud patterns. Always ver
 ---
 
 ⭐ If you find this project helpful, don't forget to give it a star on GitHub!
+
+**Experience the live app: https://fraudguard-pro-online-payment-fraud-detection-ankit-parwatkar.streamlit.app/**
